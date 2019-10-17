@@ -2786,7 +2786,7 @@ A charging model part with Fire on Impact! using a Pistol, a Brace of Pistols, o
         </selectionEntry>
       </selectionEntries>
       <costs>
-        <cost name="pts" typeId="24fd-8af8-0c78-001c" value="-45.0"/>
+        <cost name="pts" typeId="24fd-8af8-0c78-001c" value="-65.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="92cc-2df6-7b8c-4b24" name="Steam Tank" hidden="false" collective="false" type="unit">
